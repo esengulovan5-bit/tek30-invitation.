@@ -1,0 +1,1 @@
+Загрузите index.html, emblem.png и music.mp3 в корень репозитория GitHub tek30-invitation через Add file → Upload files → Commit changes. Vercel обновит сайт автоматически. Форма открывает WhatsApp без номера; гость выбирает получателя и отправляет сообщение самостоятельно. Ответы на сайте не сохраняются.
